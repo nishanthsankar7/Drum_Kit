@@ -1,3 +1,3 @@
 # Drum_Kit
-My first JavaScript Project with DOM.
-This project was completed as part of my learning journey in full stack development by London App Brewery.
+My first JavaScript Project with DOM which identifies the keypress and clicks made in the browser screen and plays the sound of the drum according to the keypressed or button clicked.
+
